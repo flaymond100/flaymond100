@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flaymond100
+- 👋 Hi, I’m Konstantyn
 - 👀 I’m interested in web devopment and creating an intersing applications
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on interstinf projects
